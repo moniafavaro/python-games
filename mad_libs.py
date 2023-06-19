@@ -1,0 +1,13 @@
+colour = input('Enter a colour: ')
+second_colour = input('Enter another colour: ')
+food = input('Enter your favourite food: ')
+animal = input('Enter an animal: ')
+place = input('Enter a place: ')
+noun = input('Enter a noun: ')
+
+print(f'Roses are {colour},')
+print(f'Violets are {second_colour},')
+print(f'While I was preparing {food},')
+print(f'The neighbour {animal} was looking at me,')
+print(f'And I thought, what a weird pet to have in {place},')
+print(f'But at the end of the day, we should be glad for having {noun}.')
