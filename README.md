@@ -5,6 +5,7 @@
 ### 5 games build with Python
 * Adventure Game
 * Guessing Game
+* Guessing Game II
 * Hangman
 * Mad Libs
 * Rock, Paper, Scissors
