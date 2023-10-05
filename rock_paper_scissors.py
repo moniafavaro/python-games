@@ -18,7 +18,7 @@ while human_player == False:
         if computer_player == 'Scissors':
             print('You lose... \U0001F612', computer_player, 'smashes', human_player)
         else:
-            print('You win!!! \U0001F601', human_player, 'cut', computer_player)
+            print('You win!!! \U0001F601', human_player, 'cuts', computer_player)
     else:
         print('That is not a valid play. Check your spelling! \U0001F607')
         
